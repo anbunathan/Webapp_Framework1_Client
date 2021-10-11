@@ -1,1 +1,1 @@
-# D&D Adventurers League Hub React Application
+# React Webapp Framework Client
